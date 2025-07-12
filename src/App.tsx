@@ -7,7 +7,7 @@ import { SendRequestModal } from '../components/Modals/SendRequestModal'
 import { RequestsPage } from '../components/Requests/RequestsPage'
 import { SuccessNotification } from '../components/SuccessNotification'
 // Replace figma:asset import with local image
-import backgroundImage from './assets/background.jpg'
+// import backgroundImage from './assets/background.jpg'
 
 // Enhanced mock users with more realistic data
 const mockUsers = [
