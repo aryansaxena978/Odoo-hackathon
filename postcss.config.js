@@ -1,5 +1,5 @@
 // postcss.config.js
-import tailwindcss from '@tailwindcss/postcss'
+import tailwindcss from 'tailwindcss'
 import autoprefixer from 'autoprefixer'
 
 export default {
@@ -8,5 +8,6 @@ export default {
     autoprefixer(),
   ],
 }
+
 
 
